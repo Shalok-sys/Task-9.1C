@@ -1,0 +1,41 @@
+nav{
+  background-color: lightgrey;
+  font-size: 25px;
+  margin-top: 10px;
+  border-radius: 5px;
+  text-align: left;
+  border-radius: 10px;
+  width: 70%;
+  height: 45px;
+}
+.p-link{
+  text-decoration: none;
+  color: black;
+  height: 100%;
+  padding: 8px;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+.p-link:hover{
+  background-color: black;
+  color: white;
+}
+.s-link{
+  text-decoration: none;
+  color: black;
+  float: right;
+  height: 100%;
+  padding: 4px;
+  padding-bottom: 0px;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+.s-link:hover{
+  background-color: black;
+  color: white;
+}
+body{
+  font-family: cursive;
+}
+
+
