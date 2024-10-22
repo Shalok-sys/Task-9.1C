@@ -10,6 +10,7 @@ body{
 .input-container input[type = text]{
     height: 40px;
     border-radius: 5px;
+    font-family: cursive;
 }
 
 .center-greybg{
